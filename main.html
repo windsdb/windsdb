@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>吹奏楽データベース</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">
+  <h1>吹奏楽曲データベース</h1>
+</header>
+<input type="number" id="songIdInput" placeholder="管理番号を入力">
+<button onclick="showSong()">表示</button>
+
+
+<input id="freeSearch" placeholder="フリーワード検索" oninput="showSearch()">
+
+<input id="titleSearch" placeholder="曲名検索" oninput="showSearch()">
+
+<input id="personSearch" placeholder="人物検索（作曲者・編曲者）" oninput="showSearch()">
+
+
+<div id="tagPanel" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:white; overflow:auto; padding:20px; z-index:1000;">
+  
+  <h2>タグ検索</h2>
+
+  <button onclick="closeTagPanel()">閉じる</button>
+  <button onclick="applyTagSearch()">検索する</button>
+
+
+  <div id="tagList"></div>
+
+  <button onclick="applyTagSearch()">検索する</button>
+</div>
+
+<!-- <button onclick="showSearch()">検索</button> -->
+
+<button onclick="openTagPanel()">タグだけで検索</button>
+
+<div id="result"></div><div id="result"></div>
+
+
+<div id="result"></div>
+
+<script src="app.js"></script>
+
+<p>ここに曲が表示されます</p>
+
+</body>
+</html>

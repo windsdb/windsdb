@@ -1,0 +1,62 @@
+.header {
+  background: #00922c; /* 濃い色 */
+  color: white;
+  padding: 15px 20px;
+  margin: -20px -20px 20px -20px; /* 画面いっぱいに広げる */
+}
+
+.header h1 {
+  font-family:"TazuganeGothicStdN",sans-serif;
+  margin: 0;
+  font-size: 40px;
+}
+
+body {
+  font-family: "Verdana","TazuganeGothicStdN","Yu Gothic",sans-serif;
+  font-weight: 500;
+  margin: 20px;
+  background: #c5ffd4;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 2px 0;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* テーブル */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: white;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+tr:hover {
+  background: #f0f0f0;
+}
+
+/* タグ */
+.tag {
+  display: inline-block;
+  background: #e0e7ff;
+  padding: 3px 8px;
+  margin: 2px;
+  border-radius: 6px;
+  font-size: 12px;
+}

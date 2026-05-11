@@ -1,0 +1,731 @@
+[
+    {
+        "id": 1,
+        "title"    :"マードックからの最後の手紙（通常版）",
+        "titleen"  :"The last letter from Murdoch",
+        "composer" :"TARUYA Masanori　樽屋雅徳",
+        "arranger" :null,
+        "publisher":"foster_music",
+        "links"    : {
+        "youtube": "https://www.youtube.com/watch?v=oU6TN5SuzxA",
+        "url": "https://www.fostermusic.jp/products/detail/1549"
+        },
+        "tags"     : [
+        "壮大","海","オリジナル","コンクール","中編成"
+        ],
+        "instrumentation":{
+            "Piccolo"           :1,
+            "Flute"             :2,
+            "Oboe"              :1,
+            "Bassoon"           :1,
+            "Eb_Clarinet"       :1,
+            "Bb_Clarinet"       :3,
+            "Bass_Clarinet"     :1,
+            "Alto_Saxophone"    :2,
+            "Tenor_Saxophone"   :1,
+            "Baritone_Saxophone":1,
+            "Trumpet"           :3,
+            "Horn"              :4,
+            "Trombone"          :3,
+            "Euphonium"         :1,
+            "Tuba"              :1,
+            "String_Bass"       :1,
+            "Percussion"        :{
+                "Percussion1":[
+                    "Triangle",
+                    "Crash_Cymbals",
+                    "Suspended_Cymbal",
+                    "Glockenspiel"
+                ],
+                "Percussion2":[
+                    "Bass_Drum",
+                    "Bodhran"
+                ],
+                "Percussion3":[
+                    "Tambourine",
+                    "Ships_Bell",
+                    "Tom-toms",
+                    "Snare_Drum",
+                    "Crash_Cymbals"
+                ],
+                "Percussion4":[
+                    "Vibraphone",
+                    "Bass_Drum",
+                    "Glockenspiel"
+                ],
+                "Timpani":1,
+                "Piano"  :1
+        }
+        },
+        "MinPerformers" : 34,
+        "MaxPerformers" : 34,
+        "solo":["Flute","Oboe","Bb_Clarinet","Alto_Saxophone","Trumpet"],
+        "trumpetRange":"Unknown",
+        "grade":3,
+        "original":null,
+        "durationSeconds":270,
+        "notes":"特になし",
+        "discussion":["タグを更に追加したいです。byKANRISHA"],
+        "createdBy"     :"KANRISHA",
+        "updatedAt"     :"2026-05-03",
+        "updatedBy"     :"KANRISHA",
+        "approvalStatus":"pending",
+        "approvedBy"    :[]
+    },
+    {
+        "id"       :2,
+        "title"    :"天駆ける息吹",
+        "titleen"  :"Breath of Myth",
+        "composer" :"EHARA Daisuke　江原大介",
+        "arranger" :null,
+        "publisher":"foster_music",
+        "links"    : {
+        "youtube"  : "https://www.youtube.com/watch?v=3RkwXA7zx-o",
+        "url"      : "https://www.fostermusic.jp/products/detail/11847"
+        },
+        "tags"     : ["緊張感","和風","オリジナル","コンクール","小編成"],
+        "instrumentation":{
+            "Piccolo"           :[0,1],
+            "Flute"             :2,
+            "Oboe"              :[0,1],
+            "Bassoon"           :[0,1],
+            "Eb_Clarinet"       :0,
+            "Bb_Clarinet"       :2,
+            "Bass_Clarinet"     :[0,1],
+            "Soprano_Saxphone"  :[0,1],
+            "Alto_Saxophone"    :[1,1],
+            "Tenor_Saxophone"   :1,
+            "Baritone_Saxophone":1,
+            "Trumpet"           :2,
+            "Horn"              :[1,1],
+            "Trombone"          :2,
+            "Euphonium"         :1,
+            "Tuba"              :1,
+            "String_Bass"       :[0,1],
+            "Percussion"        :{
+                "Percussion1":[
+                    "4 Tom-toms",
+                    "Kagura-suzu",
+                    "Wind_Chimes",
+                    "Snare_Drum"
+                ],
+                "Percussion2":[
+                    "Bass_Drum",
+                    "Hyoshigi",
+                    "Glockenspiel",
+                    "Anvil"
+                ],
+                "Percussion3":[
+                    "Tam-tam",
+                    "Finger_Cymbal",
+                    "Whip",
+                    "Suspended_Cymbal",
+                    "Shime-daiko",
+                    "Hi-hat_Cymbals_(closed)",
+                    "Marimba",
+                    "Xylophone"
+                ],
+                "Timpani":1,
+                "Nagado-daiko"  :[0,1]
+        }
+        },
+        "MinPerformers" : 16,
+        "MaxPerformers" : 25,
+
+        "solo":["Flute","Bb_Clarinet","Alto_Saxophone","Tenor_Saxophone","Baritone_Saxophone"],
+        "trumpetRange":"G（実音かどうか不明）",
+        "grade":3,
+        "original":"雲南市立木次中学校吹奏楽部委嘱作品",
+        "durationSeconds":435,
+        "notes":"B.saxが不在の場合、B.clでも代用可能であり、併用も可能。Perc1のKagura-suzuはSleigh_Bellsでも代用可能。Perc2のHyoshigiはClavesでも代用可能。Perc3のShime-daikoはBongoでも代用可能。TimpaniとNagado-daikoは１人の奏者の持ち替えで演奏することが想定。MarimbaとXylophoneはいずれか一つで代用可能。",
+        "discussion":[],
+        "createdBy"     :"KANRISHA",
+        "updatedAt"     :"2026-05-03",
+        "updatedBy"     :"KANRISHA",
+        "approvalStatus":"pending",
+        "approvedBy"    :[]
+    },
+    {
+    "id": 3,
+    "title": "カムイト　｜碧き大地の詩＜コンポーザーズ・カット・エディション＞",
+    "titleen": "Kamuito | Poetry of the Blue Earth (Composers cut edition)",
+    "composer": "FUKUSHIMA Hirokazu　福島弘和",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=vhEo4Ben7H0",
+        "url": "https://www.fostermusic.jp/products/detail/11856"
+    },
+    "tags": [
+        "神秘的",
+        "かっこいい",
+        "和風",
+        "自然",
+        "オリジナル",
+        "変化あり",
+        "コンクール",
+        "小編成"
+        ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 1,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": 2,
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 1,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": 2,
+        "Horn": 2,
+        "Trombone": 2,
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Timpani",
+                "Suspended_Cymbal"
+            ],
+            "Percussion2": [
+                "Bass_Drum",
+                "Snare_Drum",
+                "Suspended_Cymbal",
+                "Hi-Hat"
+            ],
+            "Percussion3": [
+                "Suzu_(Sleigh_Bells)",
+                "4_Toms",
+                "Wind_Chimes",
+                "Suspended_Cymbal",
+                "Bass_Drum",
+                "Glockenspiel",
+                "Marimba",
+                "Chims"
+            ],
+            "Percussion4": [
+                "Tam-tam",
+                "Wind_Chimes",
+                "Crush_Cymbals",
+                "Suspended_Cymbal",
+                "Vibraphone",
+                "Xylophone",
+                "Glockenspiel"
+            ]
+        }
+    },
+    "MinPerformers" : 20,
+    "MaxPerformers" : 23,
+    "solo": ["Piccolo","Flute","Bb_Clarinet","Alto_Saxophone","Tenor_Saxophone","Timpani"],
+    "trumpetRange": "unknown",
+    "grade": 4,
+    "original": "美幌吹奏楽団委嘱作品",
+    "durationSeconds": 390,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-04",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 4,
+    "title": "空行く月の影にまかせて",
+    "titleen": "The Legend of Emperor Sutoku",
+    "composer": "KONDO Noritaka　近藤礼隆",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=6OiwNxJM1wg",
+        "url": "https://www.fostermusic.jp/products/detail/11852"
+    },
+    "tags": [
+        "幻想的",
+        "物語",
+        "オリジナル",
+        "コンクール",
+        "小編成"
+    ],
+    "instrumentation": {
+        "Piccolo": [
+            0,
+            1
+        ],
+        "Flute": 2,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": [
+            2,
+            1
+        ],
+        "Alto_Saxphone": [
+            1,
+            1
+        ],
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": [
+            0,
+            1
+        ],
+        "Trumpet": [
+            2,
+            1
+        ],
+        "Horn": [
+            1,
+            1
+        ],
+        "Trombone": [
+            2,
+            1
+        ],
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Sleigh_Bells",
+                "Tambourine",
+                "Snare_Drum",
+                "Surigane",
+                "4_Tom-toms"
+            ],
+            "Percussion2": [
+                "Bass_Drum"
+            ],
+            "Percussion3": [
+                "Vibraphone",
+                "Suspended_Cymbal",
+                "Xylophone",
+                "Crash_Cymbals",
+                "Tam-tam"
+            ]
+        }
+    },
+    "MinPerformers" : 18,
+    "MaxPerformers" : 28,
+
+    "solo": [],
+    "trumpetRange": "G",
+    "grade": 3,
+    "original": "大江戸シンフォニックウィンドオーケストラ音楽監督・樫野哲也氏委嘱作品",
+    "durationSeconds": 435,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-04",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 5,
+    "title": "エクラ・ド・リール　～アメノウズメの舞～",
+    "titleen": "Éclat de rire",
+    "composer": "TARUYA Masanori　樽屋雅徳",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=Nr-6vdSHLdo",
+        "url": "https://www.fostermusic.jp/products/detail/11850"
+    },
+    "tags": [
+        "明るい",
+        "壮大",
+        "和風",
+        "物語",
+        "オリジナル",
+        "コンクール",
+        "小編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 1,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": [
+            2,
+            1
+        ],
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": [
+            2,
+            1
+        ],
+        "Horn": [
+            2,
+            1
+        ],
+        "Trombone": [
+            2,
+            1
+        ],
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Suspended_Cymbal",
+                "Sleigh_Bells"
+            ],
+            "Percussion2": [
+                "Marimba",
+                "Glockenspiel",
+                "Xylophone"
+            ],
+            "Percussion3": [
+                "Vibraphone"
+            ],
+            "Percussion4": [
+                "Claves",
+                "Bongo_&_Wadaiko"
+            ]
+        }
+    },
+    "MinPerformers" : 24,
+    "MaxPerformers" : 31,
+    "solo": [],
+    "trumpetRange": "unknown",
+    "grade": 3,
+    "original": null,
+    "durationSeconds": 405,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-04",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 6,
+    "title": "深淵の園",
+    "titleen": "Abyssal Garden",
+    "composer": "EHARA Daisuke　江原大介",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=9T7pvJdeSUg",
+        "url": "https://www.fostermusic.jp/products/detail/11849"
+    },
+    "tags": [
+        "幻想的",
+        "神秘的",
+        "緊張感",
+        "オリジナル",
+        "速い",
+        "コンクール",
+        "極小編成",
+        "小編成"
+    ],
+    "instrumentation": {
+        "Piccolo": [
+            0,
+            1
+        ],
+        "Flute": [
+            1,
+            1
+        ],
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": [
+            1,
+            1
+        ],
+        "Bass_Clarinet": [
+            0,
+            1
+        ],
+        "Soprano_Saxphone": [
+            0,
+            1
+        ],
+        "Alto_Saxphone": [
+            1,
+            1
+        ],
+        "Tenor_Saxphone": [
+            0,
+            1
+        ],
+        "Baritone_Saxphone": [
+            0,
+            1
+        ],
+        "Trumpet": [
+            1,
+            1
+        ],
+        "Horn": [
+            1,
+            1
+        ],
+        "Trombone": [
+            1,
+            1
+        ],
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Snare_Drum",
+                "3_Tom-toms",
+                "Suspended_Cymbal"
+            ],
+            "Percussion2": [
+                "Bass_Drum",
+                "Whip",
+                "Rachet",
+                "Triangle",
+                "Finger_Cymbals"
+            ],
+            "Mallet_Percussion_(optional)": [
+                "Glockenspiel",
+                "Xylophone"
+            ],
+            "Solo_Percussion_(optional)": [
+                "Snare_Drum",
+                "3_Tom-toms",
+                "Bass_Drum_(Kick_Drum)",
+                "Suspended_Cymbal",
+                "Glockenspiel",
+                "Xylophone"
+            ],
+            "Timapani": [0,1],
+            "Piano": [0,1]
+        }
+    },
+    "MinPerformers": 9,
+    "MaxPerformers": 27,
+    "solo": [],
+    "trumpetRange": "unknown",
+    "grade": 3,
+    "original": "北海道鵡川高等学校吹奏楽部委嘱作品",
+    "durationSeconds": 390,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-05",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 7,
+    "title": "引き出しの中の「更新」曲",
+    "titleen": "Progress songs and March in our hearts",
+    "composer": "NORO Nozomu　野呂望",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=pfwQQCxG08g",
+        "url": "https://www.fostermusic.jp/products/detail/11817"
+    },
+    "tags": [
+        "明るい",
+        "壮大",
+        "かっこいい",
+        "西洋風",
+        "オリジナル",
+        "中速",
+        "定期演奏会",
+        "木管主体",
+        "中編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 2,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Eb_Clarinet": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": 3,
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": 3,
+        "Horn": 3,
+        "Trombone": 3,
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": 1,
+        "Percussion": {
+            "Percussion1": [
+                "Snare_Drum",
+                "Wind_Chime"
+            ],
+            "Percussion2": [
+                "Bass_Drum",
+                "Triangle"
+            ],
+            "Percussion3": [
+                "Suspended_Cymbal",
+                "Crash_Cymbal",
+                "Wind_Chime"
+            ]
+        }
+    },
+    "MinPerformers": 26,
+    "MaxPerformers": 30,
+    "solo": [],
+    "trumpetRange": "G",
+    "grade": 3,
+    "original": "大江戸シンフォニックウィンドオーケストラ委嘱作品",
+    "durationSeconds": 390,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-07",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 8,
+    "title": "シャムロック　～聖パトリキウスの奇跡～",
+    "titleen": "Shamrock",
+    "composer": "TARUYA Masanori　樽屋雅徳",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=3sBgkjIqe_U",
+        "url": "https://www.fostermusic.jp/products/detail/11809"
+    },
+    "tags": [
+        "明るい",
+        "壮大",
+        "幻想的",
+        "中世",
+        "民族風",
+        "物語",
+        "オリジナル",
+        "中速",
+        "コンクール",
+        "初心者向け",
+        "小編成",
+        "中編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 1,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": [
+            2,
+            1
+        ],
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": [
+            2,
+            1
+        ],
+        "Horn": [
+            2,
+            1
+        ],
+        "Trombone": [
+            2,
+            1
+        ],
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Triangle",
+                "Suspended_Cymbal",
+                "Castanets_(Spoons)"
+            ],
+            "Percussion2": [
+                "Tom-toms"
+            ],
+            "Percussion3": [
+                "Vibraphone",
+                "Glockenspiel",
+                "Tambourine",
+                "Suspended_Cymbal"
+            ]
+        }
+    },
+    "MinPerformers": 24,
+    "MaxPerformers": 32,
+    "solo": [],
+    "trumpetRange": "unknown",
+    "grade": 3,
+    "original": "ARTE MANDOLINISTICA委嘱作品",
+    "durationSeconds": 510,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-10",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    }
+
+
+
+]

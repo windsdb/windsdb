@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title"    :"マードックからの最後の手紙（通常版）",
+        "title"    :"マードックからの最後の手紙　（通常版）",
         "titleen"  :"The last letter from Murdoch",
         "composer" :"TARUYA Masanori　樽屋雅徳",
         "arranger" :null,
@@ -104,14 +104,14 @@
             "String_Bass"       :[0,1],
             "Percussion"        :{
                 "Percussion1":[
-                    "4 Tom-toms",
-                    "Kagura-suzu",
+                    "4_Tom-toms",
+                    "Kagura_suzu or Sleigh_Bells",
                     "Wind_Chimes",
                     "Snare_Drum"
                 ],
                 "Percussion2":[
                     "Bass_Drum",
-                    "Hyoshigi",
+                    "Hyoshigi or Claves",
                     "Glockenspiel",
                     "Anvil"
                 ],
@@ -120,24 +120,24 @@
                     "Finger_Cymbal",
                     "Whip",
                     "Suspended_Cymbal",
-                    "Shime-daiko",
+                    "Shime_daiko or Bongo",
                     "Hi-hat_Cymbals_(closed)",
                     "Marimba",
                     "Xylophone"
                 ],
                 "Timpani":1,
-                "Nagado-daiko"  :[0,1]
+                "Nagado_daiko"  :[0,1]
         }
         },
         "MinPerformers" : 16,
         "MaxPerformers" : 25,
 
         "solo":["Flute","Bb_Clarinet","Alto_Saxophone","Tenor_Saxophone","Baritone_Saxophone"],
-        "trumpetRange":"G（実音かどうか不明）",
+        "trumpetRange":"G",
         "grade":3,
         "original":"雲南市立木次中学校吹奏楽部委嘱作品",
         "durationSeconds":435,
-        "notes":"B.saxが不在の場合、B.clでも代用可能であり、併用も可能。Perc1のKagura-suzuはSleigh_Bellsでも代用可能。Perc2のHyoshigiはClavesでも代用可能。Perc3のShime-daikoはBongoでも代用可能。TimpaniとNagado-daikoは１人の奏者の持ち替えで演奏することが想定。MarimbaとXylophoneはいずれか一つで代用可能。",
+        "notes":"B.saxが不在の場合、B.clでも代用可能であり、併用も可能。Perc1のKagura_suzuはSleigh_Bellsでも代用可能。Perc2のHyoshigiはClavesでも代用可能。Perc3のShime-daikoはBongoでも代用可能。TimpaniとNagado_daikoは１人の奏者の持ち替えで演奏することが想定。MarimbaとXylophoneはいずれか一つで代用可能。",
         "discussion":[],
         "createdBy"     :"KANRISHA",
         "updatedAt"     :"2026-05-03",
@@ -147,7 +147,7 @@
     },
     {
     "id": 3,
-    "title": "カムイト　｜碧き大地の詩＜コンポーザーズ・カット・エディション＞",
+    "title": "カムイト　碧き大地の詩＜コンポーザーズ・カット・エディション＞",
     "titleen": "Kamuito | Poetry of the Blue Earth (Composers cut edition)",
     "composer": "FUKUSHIMA Hirokazu　福島弘和",
     "arranger": null,
@@ -721,6 +721,98 @@
     "discussion": [],
     "createdBy": "KANRISHA",
     "updatedAt": "2026-05-10",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 9,
+    "title": "シャングリラ　～とどめおかまし大和魂～",
+    "titleen": "Shangli-La",
+    "composer": "TARUYA Masanori　樽屋雅徳",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=R0Wb2hJ1EnU",
+        "url": "https://www.fostermusic.jp/products/detail/11808"
+    },
+    "tags": [
+        "明るい",
+        "壮大",
+        "幻想的",
+        "かっこいい",
+        "和風",
+        "オリジナル",
+        "遅い",
+        "コンクール",
+        "ソロあり",
+        "小編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 2,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": 2,
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": 2,
+        "Horn": 2,
+        "Trombone": 2,
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Wind_Chime",
+                "Timpani"
+            ],
+            "Percussion2": [
+                "Shime_Daiko or Bongos",
+                "Maracas"
+            ],
+            "Percussion3": [
+                "Wadaiko",
+                "Bass_Drum"
+            ],
+            "Percussion4": [
+                "Suspended_Cymbal",
+                "Whip",
+                "Sleigh_Bells",
+                "Vibraphone"
+            ],
+            "Percussion5": [
+                "Glockenspiel",
+                "Marimba",
+                "Haku or Claves"
+            ]
+        }
+    },
+    "MinPerformers": 25,
+    "MaxPerformers": 28,
+    "solo": [
+        "Flute",
+        "Trumpet"
+    ],
+    "trumpetRange": "G",
+    "grade": 3,
+    "original": "八千代松蔭高等学校委嘱作品",
+    "durationSeconds": 435,
+    "notes": "Perc2のShime_DaikoとBongosは選択可能。Perc3のWadaikoとBass_Drumは選択可能。Perc5のHakuとClavesは選択可能。",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-21",
     "updatedBy": "KANRISHA",
     "approvalStatus": "pending",
     "approvedBy": []

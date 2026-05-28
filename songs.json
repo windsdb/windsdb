@@ -816,7 +816,274 @@
     "updatedBy": "KANRISHA",
     "approvalStatus": "pending",
     "approvedBy": []
-    }
+    },
+    {
+    "id": 10,
+    "title": "Crossfire 2023 ed.　November 22 J.F.K ＜コンポーザーズ・カット・エディション＞",
+    "titleen": "Crossfire 2023 ed.｜November 22 J.F.K (Composers cut edition)",
+    "composer": "TARUYA Masanori　樽屋雅徳",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=pWATgl2ygpU",
+        "url": "https://www.fostermusic.jp/products/detail/11807"
+    },
+    "tags": [
+        "壮大",
+        "かっこいい",
+        "激しい",
+        "緊張感",
+        "西洋風",
+        "都市",
+        "オリジナル",
+        "速い",
+        "コンクール",
+        "ソロあり",
+        "技巧的",
+        "小編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 2,
+        "Oboe": [
+            0,
+            1
+        ],
+        "Bassoon": [
+            0,
+            1
+        ],
+        "Bb_Clarinet": 2,
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": 2,
+        "Horn": 2,
+        "Trombone": 2,
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": [
+            0,
+            1
+        ],
+        "Percussion": {
+            "Percussion1": [
+                "Snare_Drum",
+                "Bass_Drum"
+            ],
+            "Percussion2": [
+                "Tom-toms",
+                "Anvil",
+                "Tam-tam"
+            ],
+            "Percussion3": [
+                "Vibraphone",
+                "Hi-hat",
+                "Cymbals",
+                "Bass_Drum",
+                "Suspended_Cymbal",
+                "Tam-tam"
+            ],
+            "extraInst": [
+                "Timpani"
+            ]
+        }
+    },
+    "MinPerformers": 24,
+    "MaxPerformers": 27,
+    "solo": [
+        "Flute",
+        "Alto_Saxophone"
+    ],
+    "trumpetRange": "High H",
+    "grade": 4,
+    "original": "玉名女子高等学校依頼改訂版",
+    "durationSeconds": 450,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-21",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 11,
+    "title": "ペルソナ・ノン・グラータ",
+    "titleen": "PERSONA NON GRATA",
+    "composer": "TARUYA Masanori　樽屋雅徳",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=nQJiK5AEscw",
+        "url": "https://www.fostermusic.jp/products/detail/11806"
+    },
+    "tags": [
+        "感動",
+        "神秘的",
+        "緊張感",
+        "西洋風",
+        "変化あり",
+        "コンクール",
+        "大編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 1,
+        "Oboe": 1,
+        "Bassoon": 1,
+        "Eb_Clarinet": 1,
+        "Bb_Clarinet": 3,
+        "Bass_Clarinet": 1,
+        "Soprano_Saxphone": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": 3,
+        "Horn": 4,
+        "Trombone": 3,
+        "Euphonium": 1,
+        "Tuba": 1,
+        "String_Bass": 1,
+        "Percussion": {
+            "Percussion1": [
+                "Snare_Drum"
+            ],
+            "Percussion2": [
+                "Bass_Drum"
+            ],
+            "Percussion3": [
+                "Suspended_Cymbal",
+                "Whip",
+                "Anvil",
+                "Triangle",
+                "Tam-tam"
+            ],
+            "Percussion4": [
+                "4_Tom-toms_&_2_Bongos",
+                "Crotales"
+            ],
+            "Percussion5": [
+                "Xylophone"
+            ],
+            "Percussion6": [
+                "Vibraphone"
+            ],
+            "extraInst": [
+                "Piano",
+                "Timpani"
+            ]
+        }
+    },
+    "MinPerformers": 41,
+    "MaxPerformers": 41,
+    "solo": [
+        "Flute",
+        "Oboe",
+        "Soprano_Saxophone"
+    ],
+    "trumpetRange": "High C (opt.G)",
+    "grade": 5,
+    "original": null,
+    "durationSeconds": 420,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-28",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+    },
+    {
+    "id": 12,
+    "title": "ONE!　(2025年度版)",
+    "titleen": "ONE!｜2025 ed.",
+    "composer": "TARUYA Masanori　樽屋雅徳",
+    "arranger": null,
+    "publisher": "foster_music",
+    "links": {
+        "youtube": "https://www.youtube.com/watch?v=BcytYSyqvkY",
+        "url": "https://www.fostermusic.jp/products/detail/11805"
+    },
+    "tags": [
+        "明るい",
+        "楽しい",
+        "壮大",
+        "かっこいい",
+        "空",
+        "物語",
+        "中速",
+        "コンクール",
+        "定期演奏会",
+        "大編成"
+    ],
+    "instrumentation": {
+        "Piccolo": 1,
+        "Flute": 1,
+        "Oboe": 1,
+        "Bassoon": 1,
+        "Eb_Clarinet": 1,
+        "Bb_Clarinet": 3,
+        "Bass_Clarinet": 1,
+        "Alto_Saxphone": 2,
+        "Tenor_Saxphone": 1,
+        "Baritone_Saxphone": 1,
+        "Trumpet": 3,
+        "Horn": 4,
+        "Trombone": 3,
+        "Euphonium": 1,
+        "Tuba": 1,
+        "4_String_Bass_Guitar": 1,
+        "String_Bass": 1,
+        "Percussion": {
+            "Percussion1": [
+                "Bass_Drum"
+            ],
+            "Percussion2": [
+                "Suspended_Cymbal",
+                "Tam-tam"
+            ],
+            "Percussion3": [
+                "Crush_Cymbals",
+                "Wind_Chime"
+            ],
+            "Percussion4": [
+                "Drums"
+            ],
+            "Percussion5": [
+                "Xylophone"
+            ],
+            "Percussion6": [
+                "Glockenspiel",
+                "Wind_Chime"
+            ],
+            "extraInst": [
+                "Piano",
+                "Timpani"
+            ]
+        }
+    },
+    "MinPerformers": 38,
+    "MaxPerformers": 38,
+    "solo": [
+        "Flute",
+        "Oboe",
+        "Trumpet",
+        "Bb_Clarinet"
+    ],
+    "trumpetRange": "High C (opt. C)",
+    "grade": 3,
+    "original": "石川県立小松明峰高等学校委嘱作品",
+    "durationSeconds": 390,
+    "notes": "",
+    "discussion": [],
+    "createdBy": "KANRISHA",
+    "updatedAt": "2026-05-28",
+    "updatedBy": "KANRISHA",
+    "approvalStatus": "pending",
+    "approvedBy": []
+}
 
 
 
